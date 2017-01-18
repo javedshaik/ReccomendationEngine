@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=filename
+comment0.target=java.util.ArrayList\ loadMovies(java.lang.String)
+comment1.params=
+comment1.target=void\ testLoadMovies()
+comment2.params=list\ genre
+comment2.target=void\ genre(java.util.ArrayList,\ java.lang.String)
+comment3.params=list\ minutes
+comment3.target=void\ movieLength(java.util.ArrayList,\ java.lang.Integer)
+comment4.params=filename
+comment4.target=java.util.ArrayList\ loadRaters(java.lang.String)
+comment5.params=
+comment5.target=void\ testLoadRaters()
+comment6.params=r\ s
+comment6.target=void\ findNumOfRatingsPartMovie(java.util.ArrayList,\ java.lang.String)
+numComments=7
